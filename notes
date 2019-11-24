@@ -1,0 +1,25 @@
+1.npm init -y
+2.create folders
+    /app
+        /controllers
+        /models
+    /config
+3.create files
+    /index.js
+    /config
+        /database.js
+        /routes.js
+4.npm install --save express mongoose
+
+5 run server to listen on a port
+
+6. establish db connection
+
+7.invoke the  fun connectDB in index.js file
+
+8.enables json parse(index.js)
+
+9.work on models
+
+
+    ---create models------
